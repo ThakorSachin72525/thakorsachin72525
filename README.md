@@ -1,6 +1,6 @@
 # Hi, I'm Sachin Thakor 👋
 
-I build backend / data pipelines and automations — mostly in **Python**, with some **Android (Kotlin)** on the side.
+I build backend / data pipelines and automations — mostly in **Python**.
 
 ## 🚀 Featured projects
 
