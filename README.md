@@ -13,7 +13,7 @@ I build backend / data pipelines and automations — mostly in **Python**, with 
 
 ## 🛠 Stack
 
-`Python` · `Supabase/Postgres` · `Streamlit` · `GitHub Actions` · `Kotlin/Android` · `JavaScript`
+`Python` · `Supabase/Postgres` · `Streamlit` · `GitHub Actions` · `JavaScript`
 
 ## 📫 Contact
 
